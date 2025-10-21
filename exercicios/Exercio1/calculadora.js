@@ -30,7 +30,6 @@ function somar(a, b) {
     return Math.sqrt(a);
   }
   
-  // Exportando as funções
   module.exports = {
     somar,
     subtrair,
